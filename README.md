@@ -1,4 +1,4 @@
-# 🏥 binarywa0rm`s SPB Pharmacy Finder Bot
+# 🏥 binaryw0rm`s SPB Pharmacy Finder Bot
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python)
 ![Aiogram](https://img.shields.io/badge/Aiogram-3.x-blueviolet?style=for-the-badge&logo=telegram)
