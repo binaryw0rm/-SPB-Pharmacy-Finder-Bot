@@ -164,6 +164,7 @@ pharma_bot/
 │   ├── states.py           # FSM States
 │   └── utils.py            # Haversine distance calc
 ├── main.py                 # Entry point
+├── geocoding_script.py
 ├── requirements.txt        # Python dependencies
 └── .env                    # Secrets (Excluded from git)
 ```
