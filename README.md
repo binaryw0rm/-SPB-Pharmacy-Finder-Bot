@@ -22,6 +22,15 @@ A Telegram bot designed to help users find the nearest 24/7 pharmacies in Saint 
 
 ---
 
+## Screenshots
+
+|   |   |   |
+|---|---|---|
+| ![image1](https://github.com/binaryw0rm/-SPB-Pharmacy-Finder-Bot/blob/main/image1.JPG?raw=true) | ![image2](https://github.com/binaryw0rm/-SPB-Pharmacy-Finder-Bot/blob/main/image2.JPG?raw=true) | ![image3](https://github.com/binaryw0rm/-SPB-Pharmacy-Finder-Bot/blob/main/image3.JPG?raw=true) |
+| ![image4](https://github.com/binaryw0rm/-SPB-Pharmacy-Finder-Bot/blob/main/image4.jpg?raw=true) | ![image5](https://github.com/binaryw0rm/-SPB-Pharmacy-Finder-Bot/blob/main/image5.jpg?raw=true) |  |
+
+
+---
 ## 🚀 Installation & Setup
 
 ### Prerequisites
